@@ -23,4 +23,4 @@ jobs:
 
       - name: Deploy to Windows Server
         shell: powershell
-        run: C:\deploy\deploy.ps1
+        run: C:\deploy\deploy.cmd
