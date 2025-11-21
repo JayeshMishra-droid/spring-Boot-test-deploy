@@ -30,5 +30,5 @@ jobs:
         shell: cmd
 
       - name: Deploy Application
-        run: C:\deploy\deploy.cmd
+        run: C:\Users\CCS\deploy\deploy.cmd
         shell: cmd
